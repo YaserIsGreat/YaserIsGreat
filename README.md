@@ -14,4 +14,4 @@ Python · YOLOv8 · PyTorch · JavaScript · Java · SQL
 ## Get in touch
 yaser.lamsatfi@gmail.com
 
-[LinkedIn](https://linkedin.com/in/yaser-lamsatfi)
+[LinkedIn](https://www.linkedin.com/in/yaser-lamsatfi-38b551218/)
