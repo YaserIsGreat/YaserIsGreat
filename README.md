@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hello, I'm Yaser.
 
-<!--
-**YaserIsGreat/YaserIsGreat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering graduate from the University of Stirling.
+I love computing and sport, and thought why not combine both?
 
-Here are some ideas to get you started:
+## What I'm working on
+🏈 **Project First Down:** NFL computer vision pipeline using YOLOv8 
+🌐 **Studio Lams:** web studio for local high street businesses
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech
+Python · YOLOv8 · PyTorch · JavaScript · Java · SQL
+
+## Get in touch
+yaser.lamsatfi@gmail.com
+linkedin.com/in/yaser-lamsatfi
